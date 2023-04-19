@@ -10,7 +10,7 @@ I am a full-stack developer with experience in a variety of programming language
 </details>
 
 <details>
-  <summary>Group Project: Front desk system in React</summary>
+  <summary>Group Project: Front Desk System for Skin Clinic</summary>
   <br>
   A collaborative project completed alongside the other trainees at _nology, which involved creating a front desk and stock system for a skin clinic. We used HTML, SASS & React for the frontend and Firebase authentication for a login system. The components/pages are unit tested using React Testing Library. We utilised Scrum to complete this project, in 4 day sprints across 2 weeks.
 </details>
