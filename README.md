@@ -28,7 +28,7 @@ I am a full-stack developer with experience in a variety of programming language
 </details>
 
 <details>
-  <summary>Full Satck Project</summary>
+  <summary>Full Stack Project</summary>
   <br>
   A full stack web application that uses React for the front-end, SQL to create and store the database and Java and SpringBoot to make the API that interacts with the database and the front-end.
 </details>
