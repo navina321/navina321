@@ -1,6 +1,6 @@
 # Navina Jayanthan
 
-I am a full-stack developer with experience in a variety of programming languages including React and Java. Some of my projects include trivia game using vanilla javascript, a collaboritve group project to create a front desk system for a skin clinic in React and full-stack project using a combination of React, Java and SQL. I completed my undergraduate degree in Civil Engineering at Swansea University and am currently training with _nology to develop my software engineering skills. 
+I am a full-stack developer with experience in a variety of programming languages including React and Java. Some of my projects include trivia game using vanilla javascript, a collaboritve group project to create a front desk system for a skin clinic in React and full-stack project using a combination of React, Java and SQL. I completed my undergraduate degree in Civil Engineering at Swansea University and am currently Junior Software Developer with _nology. 
 
 ## Projects
 <details>
